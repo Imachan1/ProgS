@@ -1,0 +1,8 @@
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\bin\Debug\BeautySalonReservations.exe.config
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\bin\Debug\BeautySalonReservations.exe
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\bin\Debug\BeautySalonReservations.pdb
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\obj\Debug\BeautySalonReservations.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\obj\Debug\BeautySalonReservations.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\obj\Debug\BeautySalonReservations.exe
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\obj\Debug\BeautySalonReservations.pdb
+C:\Users\valer\source\repos\BeautySalonReservations\BeautySalonReservations\obj\Debug\BeautySalonReservations.exe.config
